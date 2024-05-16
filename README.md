@@ -1,5 +1,7 @@
 # Media Query Snippets
 
+![Logo](images/icon.png)
+
 ## Overview
 
 The **Media Query Snippets** extension for Visual Studio Code provides handy snippets for CSS media query breakpoints. These snippets help you write media queries more quickly and efficiently in your CSS, SCSS, or LESS files.
@@ -46,3 +48,8 @@ Contributions to this project are welcome. Just fork the repository, make your c
 ## License
 
 This project is licensed under the MIT License.
+
+## Device sizes
+
+![Device sizes](images/responsive.png)
+[Source](https://github.com/angular/flex-layout/wiki/Responsive-API)
