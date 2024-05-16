@@ -1,0 +1,74 @@
+{
+    "MediaQuery Breakpoints": {
+        "prefix": "breakpoint",
+        "body": [
+            "mediaQuery: ${1|xs,sm,md,lg,xl,lt-sm,lt-md,lt-lg,lt-xl,gt-xs,gt-sm,gt-md,gt-lg|}"
+        ],
+        "description": "Insert a media query breakpoint"
+    },
+    "xs": {
+        "prefix": "xs",
+        "body": "screen and (max-width: 599px)",
+        "description": "Media query for xs"
+    },
+    "sm": {
+        "prefix": "sm",
+        "body": "screen and (min-width: 600px) and (max-width: 959px)",
+        "description": "Media query for sm"
+    },
+    "md": {
+        "prefix": "md",
+        "body": "screen and (min-width: 960px) and (max-width: 1279px)",
+        "description": "Media query for md"
+    },
+    "lg": {
+        "prefix": "lg",
+        "body": "screen and (min-width: 1280px) and (max-width: 1919px)",
+        "description": "Media query for lg"
+    },
+    "xl": {
+        "prefix": "xl",
+        "body": "screen and (min-width: 1920px) and (max-width: 5000px)",
+        "description": "Media query for xl"
+    },
+    "lt-sm": {
+        "prefix": "lt-sm",
+        "body": "screen and (max-width: 599px)",
+        "description": "Media query for less than sm"
+    },
+    "lt-md": {
+        "prefix": "lt-md",
+        "body": "screen and (max-width: 959px)",
+        "description": "Media query for less than md"
+    },
+    "lt-lg": {
+        "prefix": "lt-lg",
+        "body": "screen and (max-width: 1279px)",
+        "description": "Media query for less than lg"
+    },
+    "lt-xl": {
+        "prefix": "lt-xl",
+        "body": "screen and (max-width: 1919px)",
+        "description": "Media query for less than xl"
+    },
+    "gt-xs": {
+        "prefix": "gt-xs",
+        "body": "screen and (min-width: 600px)",
+        "description": "Media query for greater than xs"
+    },
+    "gt-sm": {
+        "prefix": "gt-sm",
+        "body": "screen and (min-width: 960px)",
+        "description": "Media query for greater than sm"
+    },
+    "gt-md": {
+        "prefix": "gt-md",
+        "body": "screen and (min-width: 1280px)",
+        "description": "Media query for greater than md"
+    },
+    "gt-lg": {
+        "prefix": "gt-lg",
+        "body": "screen and (min-width: 1920px)",
+        "description": "Media query for greater than lg"
+    }
+}

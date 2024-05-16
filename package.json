@@ -1,0 +1,38 @@
+{
+  "name": "responsive-media-query-snippets",
+  "displayName": "Media Query Snippets",
+  "description": "Snippets for CSS media query breakpoints",
+  "version": "1.0.0",
+  "publisher": "404-Labor",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/404-Labor/responsive-media-query-snippets"
+  },
+  "bugs": {
+    "url": "https://github.com/404-Labor/responsive-media-query-snippets/issues"
+  },
+  "homepage": "https://404-labor.com/",
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "css",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "scss",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "less",
+        "path": "./snippets/snippets.json"
+      }
+    ]
+  }
+}
