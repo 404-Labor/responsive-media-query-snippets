@@ -8,67 +8,67 @@
     },
     "xs": {
         "prefix": "@media xs",
-        "body": "screen and (max-width: 599px)",
+        "body": "@media screen and (max-width: 599px)",
         "description": "Media query for xs"
     },
     "sm": {
         "prefix": "@media sm",
-        "body": "screen and (min-width: 600px) and (max-width: 959px)",
+        "body": "@media screen and (min-width: 600px) and (max-width: 959px)",
         "description": "Media query for sm"
     },
     "md": {
         "prefix": "@media md",
-        "body": "screen and (min-width: 960px) and (max-width: 1279px)",
+        "body": "@media screen and (min-width: 960px) and (max-width: 1279px)",
         "description": "Media query for md"
     },
     "lg": {
         "prefix": "@media lg",
-        "body": "screen and (min-width: 1280px) and (max-width: 1919px)",
+        "body": "@media screen and (min-width: 1280px) and (max-width: 1919px)",
         "description": "Media query for lg"
     },
     "xl": {
         "prefix": "@media xl",
-        "body": "screen and (min-width: 1920px) and (max-width: 5000px)",
+        "body": "@media screen and (min-width: 1920px) and (max-width: 5000px)",
         "description": "Media query for xl"
     },
     "lt-sm": {
         "prefix": "@media lt-sm",
-        "body": "screen and (max-width: 599px)",
+        "body": "@media screen and (max-width: 599px)",
         "description": "Media query for less than sm"
     },
     "lt-md": {
         "prefix": "@media lt-md",
-        "body": "screen and (max-width: 959px)",
+        "body": "@media screen and (max-width: 959px)",
         "description": "Media query for less than md"
     },
     "lt-lg": {
         "prefix": "@media lt-lg",
-        "body": "screen and (max-width: 1279px)",
+        "body": "@media screen and (max-width: 1279px)",
         "description": "Media query for less than lg"
     },
     "lt-xl": {
         "prefix": "@media lt-xl",
-        "body": "screen and (max-width: 1919px)",
+        "body": "@media screen and (max-width: 1919px)",
         "description": "Media query for less than xl"
     },
     "gt-xs": {
         "prefix": "@media gt-xs",
-        "body": "screen and (min-width: 600px)",
+        "body": "@media screen and (min-width: 600px)",
         "description": "Media query for greater than xs"
     },
     "gt-sm": {
         "prefix": "@media gt-sm",
-        "body": "screen and (min-width: 960px)",
+        "body": "@media screen and (min-width: 960px)",
         "description": "Media query for greater than sm"
     },
     "gt-md": {
         "prefix": "@media gt-md",
-        "body": "screen and (min-width: 1280px)",
+        "body": "@media screen and (min-width: 1280px)",
         "description": "Media query for greater than md"
     },
     "gt-lg": {
         "prefix": "@media gt-lg",
-        "body": "screen and (min-width: 1920px)",
+        "body": "@media screen and (min-width: 1920px)",
         "description": "Media query for greater than lg"
     }
 }
